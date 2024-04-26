@@ -13,5 +13,6 @@ float radianToDegree(float num) {
 int main()
 {
     std::cout << "29 degrees to radians: " << degreeToRadian(29) << std::endl;
+    std::cout << "1 radian to degrees: " << radianToDegree(1) << std::endl;
     std::cout << "100 radians to degrees: " << radianToDegree(100) << std::endl;
 }
