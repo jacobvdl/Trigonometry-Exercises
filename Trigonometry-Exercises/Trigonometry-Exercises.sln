@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trigonometry-Exercises", "Trigonometry-Exercises.vcxproj", "{C0E56062-132B-4D80-9C3E-C1FDEF14251E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E56062-132B-4D80-9C3E-C1FDEF14251E}.Debug|x64.ActiveCfg = Debug|x64
+		{C0E56062-132B-4D80-9C3E-C1FDEF14251E}.Debug|x64.Build.0 = Debug|x64
+		{C0E56062-132B-4D80-9C3E-C1FDEF14251E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0E56062-132B-4D80-9C3E-C1FDEF14251E}.Debug|x86.Build.0 = Debug|Win32
+		{C0E56062-132B-4D80-9C3E-C1FDEF14251E}.Release|x64.ActiveCfg = Release|x64
+		{C0E56062-132B-4D80-9C3E-C1FDEF14251E}.Release|x64.Build.0 = Release|x64
+		{C0E56062-132B-4D80-9C3E-C1FDEF14251E}.Release|x86.ActiveCfg = Release|Win32
+		{C0E56062-132B-4D80-9C3E-C1FDEF14251E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63EF0424-5518-402E-96AC-47DA84EC6D65}
+	EndGlobalSection
+EndGlobal
